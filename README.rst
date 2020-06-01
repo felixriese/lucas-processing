@@ -1,3 +1,7 @@
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3871431.svg
+   :target: https://doi.org/10.5281/zenodo.3871431
+   :alt: Zenodo
+
 LUCAS Soil Texture Processing Scripts
 =====================================
 
@@ -30,7 +34,8 @@ Citation
 
 **Code for the Scripts:**
 
-[1] F. M. Riese, "LUCAS Soil Texture Processing Scripts," to be published.
+[1] F. M. Riese, "LUCAS Soil Texture Processing Scripts," Zenodo, 2020.
+`DOI:0.5281/zenodo.3871431 <https://doi.org/10.5281/zenodo.3871431>`_
 
 .. code:: bibtex
 
@@ -38,7 +43,8 @@ Citation
         author = {Riese, Felix~M.},
         title = {{LUCAS Soil Texture Processing Scripts}},
         year = {2020},
-        note = {To be published},
+        DOI = {10.5281/zenodo.3871431},
+        publisher = {Zenodo}
     }
 
 **Code for the 1D CNNs:**
