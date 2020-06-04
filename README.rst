@@ -6,9 +6,14 @@ LUCAS Soil Texture Processing Scripts
 =====================================
 
 This repository is a placeholder for the processing scripts of the soil
-texture data included into the LUCAS dataset [4]. This script is used for a
-study [2] of 1D Convolutional Neural Networks (CNNs). The code of the 1D CNNs
-is published in [3].
+texture data included into the LUCAS dataset [5]. This script is used for a
+study [3, 4] of 1D Convolutional Neural Networks (CNNs). The code of the 1D
+CNNs is published in [2].
+
+We can not guarantee completeness or correctness of the code. If you find bugs
+or if you have suggestions on how to improve the code, we encourage you to post
+your ideas as `GitHub issue
+<https://github.com/felixriese/lucas-processing/issues>`_.
 
 :License:
     `3-Clause BSD license <LICENSE>`_
@@ -25,7 +30,9 @@ is published in [3].
 Notebooks
 ---------
 
-to be added ...
+1. `Process LUCAS dataset <py/Process_LUCAS_Dataset.ipyn>`_
+2. `Plot soil triangle <py/Plot_SoilTriangle.ipyn>`_
+3. `PLot results <py/Plot_Results.ipyn>`_
 
 ----
 
@@ -71,22 +78,13 @@ Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. IV-2/W5,
 pp. 615-621, 2019. `DOI:10.5194/isprs-annals-IV-2-W5-615-2019
 <https://doi.org/10.5194/isprs-annals-IV-2-W5-615-2019>`_
 
-.. code:: bibtex
-
-    @article{riese2019soil,
-        author = {Riese, Felix~M. and Keller, Sina},
-        title = {{Soil Texture Classification with 1D Convolutional Neural Networks based on Hyperspectral Data}},
-        year = {2019},
-        journal = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
-        volume = {IV-2/W5},
-        pages = {615--621},
-        doi = {10.5194/isprs-annals-IV-2-W5-615-2019},
-        url = {https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2-W5/615/2019/},
-    }
+[4] Felix M. Riese. "Development and Applications of Machine Learning Methods
+for Hyperspectral Data." PhD thesis. Karlsruhe, Germany: Karlsruhe Institute of
+Technology (KIT), 2020.
 
 Further References
 ------------------
 
-[4] G. Tóth, A. Jones, and L. Montanarella, "LUCAS Topsoil Survey: Methodology,
+[5] G. Tóth, A. Jones, and L. Montanarella, "LUCAS Topsoil Survey: Methodology,
 Data, and Results." Tech. rep. JRC83529. Joint Research Centre of the European
 Commission, 2013. `DOI:10.2788/97922 <https://doi.org/10.2788/97922>`_
