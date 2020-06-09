@@ -80,7 +80,7 @@ pp. 615-621, 2019. `DOI:10.5194/isprs-annals-IV-2-W5-615-2019
 
 [4] Felix M. Riese. "Development and Applications of Machine Learning Methods
 for Hyperspectral Data." PhD thesis. Karlsruhe, Germany: Karlsruhe Institute of
-Technology (KIT), 2020.
+Technology (KIT), 2020. `DOI:10.5445/IR/1000120067 <https://doi.org/10.5445/IR/1000120067>`_
 
 Further References
 ------------------
